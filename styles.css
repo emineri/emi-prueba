@@ -450,7 +450,7 @@ img {
 
 .hero-title {
   color: var(--white);
-  font-size: clamp(2rem, 7vw, 3rem);
+  font-size: clamp(1.2rem, 5vw, 3rem);
   font-weight: 800;
   letter-spacing: -0.025em;
   line-height: 1.15;
