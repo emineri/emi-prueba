@@ -127,7 +127,7 @@ const translations = {
     invalidEmail: "Please enter a valid email address.",
 
     /* 8. Footer */
-    footerLocation: "Texas, United States",
+    footerLocation: "T701 Commerce St Ste 500 #3010 Dallas, TX 75202, United States",
     copyrightRights: "All rights reserved.",
   },
 
@@ -254,7 +254,7 @@ const translations = {
     invalidEmail: "Ingrese un correo electrónico válido.",
 
     /* 8. Footer */
-    footerLocation: "Texas, Estados Unidos",
+    footerLocation: "701 Commerce St Ste 500 #3010 Dallas, TX 75202, United States",
     copyrightRights: "Todos los derechos reservados.",
   },
 };
