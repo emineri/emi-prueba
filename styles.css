@@ -145,7 +145,7 @@ img {
 .site-header {
   background: var(--white);
   box-shadow: 0 1px 0var(--line-subtle);
-  padding: 5px 4px; /* Reduced vertical padding */
+  padding: 15px 4px; /* Reduced vertical padding */
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -418,7 +418,7 @@ img {
 @media (max-width: 899px) {
   .hero-section {
     background-image:
-      linear-gradient(to top, rgba(11, 45, 77, 1) 0%, rgba(11, 45, 77, 0.95) 10%, rgba(11, 45, 77, 0) 18%),
+      linear-gradient(to top, rgba(11, 45, 77, 1) 0%, rgba(11, 45, 77, 0.95) 10%, rgba(11, 45, 77, 0) 30%),
       linear-gradient(to right, rgba(11, 45, 77, 0.95) 0%, rgba(11, 45, 77, 0.6) 40%, rgba(11, 45, 77, 0) 80%),
       url("assets/hero-mobile.jpg");
     background-position: center top;
