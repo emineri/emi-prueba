@@ -147,7 +147,7 @@ const translations = {
     navCta: "Conversemos",
 
     /* 1. Hero */
-    heroTitle: "Productos confiables.<br />Relaciones comerciales duraderas.",
+    heroTitle: "Productos confiables.<br />Relaciones comerciales <br />duraderas.",
     heroText:
       "EMINERI adquiere productos de consumo de marcas, fabricantes y distribuidores establecidos para su reventa a través de sus canales de venta en el mercado de Estados Unidos.",
     heroBtn: "Ser proveedor",
