@@ -418,7 +418,7 @@ img {
 @media (max-width: 899px) {
   .hero-section {
     background-image:
-      linear-gradient(to top, rgba(11, 45, 77, 1) 0%, rgba(11, 45, 77, 0.95) 40%, rgba(11, 45, 77, 0) 75%),
+      linear-gradient(to top, rgba(11, 45, 77, 1) 0%, rgba(11, 45, 77, 0.95) 10%, rgba(11, 45, 77, 0) 18%),
       linear-gradient(to right, rgba(11, 45, 77, 0.95) 0%, rgba(11, 45, 77, 0.6) 40%, rgba(11, 45, 77, 0) 80%),
       url("assets/hero-mobile.jpg");
     background-position: center top;
